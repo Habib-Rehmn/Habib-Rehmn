@@ -1,5 +1,5 @@
 <!-- Visitor Badge -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Habib-Rehmn.Habib-Rehmn">
 
 <!-- Typing SVG -->
 <h1 align="center">
@@ -25,17 +25,17 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities</h2>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="TensorFlow" height="25" src="images/tensorflow.png"></code>
-  <code><img title="Keras" height="25" src="images/keras.png"></code>
-  <code><img title="Scikit-Learn" height="25" src="images/scikit-learn.png"></code>
-  <code><img title="Pandas" height="25" src="images/pandas.svg"></code>
-  <code><img title="NumPy" height="25" src="images/numpy.svg"></code>
-  <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
-  <code><img title="Jupyter" height="25" src="images/jupyter.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.svg"></code>
-  <code><img title="AWS" height="25" src="images/aws.svg"></code>
+  <img title="Python" height="25" src="images/python-original.svg">
+  <img title="TensorFlow" height="25" src="images/tensorflow.png">
+  <img title="Keras" height="25" src="images/keras.png">
+  <img title="Scikit-Learn" height="25" src="images/scikit-learn.png">
+  <img title="Pandas" height="25" src="images/pandas.svg">
+  <img title="NumPy" height="25" src="images/numpy.svg">
+  <img title="Matplotlib" height="25" src="images/matplotlib.svg">
+  <img title="Jupyter" height="25" src="images/jupyter.svg">
+  <img title="Git" height="25" src="images/git-original.svg">
+  <img title="Docker" height="25" src="images/docker.svg">
+  <img title="AWS" height="25" src="images/aws.svg">
 </p>
 
 
@@ -44,10 +44,10 @@
 <h2 align="center">⚡ GitHub Stats</h2>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Habib-Rehmn&show_icons=true" height="165" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" height="165" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habib-Rehmn" height="165" />
   </a>
 </div>
 
@@ -56,7 +56,7 @@
 <h2 align="center">📊 Most Used Languages</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&layout=compact" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-Rehmn&langs_count=8&layout=compact" />
   </a>
 </p>
 
