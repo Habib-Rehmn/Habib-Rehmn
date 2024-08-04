@@ -52,8 +52,9 @@
 
 <!-- Most Used Languages -->
 <hr>
-<h2 align="center">📊 Most Used Languages 📊</h2>
+
 <p align="center">
+  <h2 align="center">📊 Most Used Languages 📊</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&layout=compact" />
   </a>
