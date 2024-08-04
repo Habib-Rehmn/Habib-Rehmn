@@ -38,14 +38,6 @@
   <code><img title="AWS" height="25" src="images/aws.svg"></code>
 </p>
 
-<!-- Most Used Languages -->
-<hr>
-<h2 align="center">📊 Most Used Languages 📊</h2>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&layout=compact" />
-  </a>
-</p>
 
 <!-- GitHub Stats -->
 <hr>
@@ -58,6 +50,15 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" height="165" />
   </a>
 </div>
+
+<!-- Most Used Languages -->
+<hr>
+<h2 align="center">📊 Most Used Languages 📊</h2>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&layout=compact" />
+  </a>
+</p>
 
 <!-- Contact -->
 <hr>
