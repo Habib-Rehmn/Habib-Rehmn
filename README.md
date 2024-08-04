@@ -13,7 +13,7 @@
   <code><a href="https://linkedin.com/in/habib-ur-rehman-in/" title="LinkedIn Profile"><img width="38" src="linkedin-original.svg"> LinkedIn</a></code>
 </h5>
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/">Visit my LinkedIn profile</a>
+  <a href="https://www.linkedin.com/in/habib-ur-rehman-in/">Visit my LinkedIn profile</a>
 </p>
 
 <!-- Introductory Paragraph -->
