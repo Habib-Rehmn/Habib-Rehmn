@@ -1,64 +1,74 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20745
-Fork on GitHub
-6392
+<!-- Visitor Badge -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername">
 
-back to edit
+<!-- Typing SVG -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Habib;Machine+Learning+Engineer&center=true&size=30">
+  </a>
+</h1>
 
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm Habib Ur Rehman</h1>
-<h3 align="center">A Passionate Machine Learning Engineer</h3>
-
-- 🔭 I’m currently working on **NLP Projects**
-
-- 🌱 I’m currently learning **Scalable Systems For AI**
-
-- 👯 I’m looking to collaborate on **Machine Learning & Deep Learning**
-
-- 🤝 I’m Currently Working with [Enliven AI](https://www.linkedin.com/company/enlivenai/)
-
-- 📝 I sometimes write articles on Machine Learning [https://medium.com/@habibeternal](https://medium.com/@habibeternal)
-
-- 💬 Ask me about **Machine Learning, Deep Learning, AI**
-
-- 📫 How to reach me **habibrehmn2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- LinkedIn Profile -->
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/yourprofile/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+</h5>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile/">Visit my LinkedIn profile</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Introductory Paragraph -->
+<p align="center">
+  Hi, I'm Habib, a Machine Learning Engineer with a passion for building intelligent systems and solving complex problems using data. I have extensive experience in developing machine learning models, data analysis, and implementing AI solutions.
+</p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+<!-- Languages & Frameworks -->
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<p align="center">
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="TensorFlow" height="25" src="images/tensorflow.png"></code>
+  <code><img title="Keras" height="25" src="images/keras.png"></code>
+  <code><img title="Scikit-Learn" height="25" src="images/scikit-learn.png"></code>
+  <code><img title="Pandas" height="25" src="images/pandas.svg"></code>
+  <code><img title="NumPy" height="25" src="images/numpy.svg"></code>
+  <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
+  <code><img title="Jupyter" height="25" src="images/jupyter.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Docker" height="25" src="images/docker.svg"></code>
+  <code><img title="AWS" height="25" src="images/aws.svg"></code>
+</p>
+
+<!-- Most Used Languages -->
+<hr>
+<h2 align="center">📊 Most Used Languages 📊</h2>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&theme=radical&layout=compact" />
+  </a>
+</p>
+
+<!-- GitHub Stats -->
+<hr>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="45%" />
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="45%" />
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<hr>
+<h2 align="center">🔥 Contribution Graph 🔥</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical" width="100%"/>
+</p>
+
+<!-- Contact -->
+<hr>
+<h2 align="center">📫 How to reach me 📫</h2>
+<p align="center">
+  <a href="mailto:your.email@example.com">your.email@example.com</a>
+</p>
