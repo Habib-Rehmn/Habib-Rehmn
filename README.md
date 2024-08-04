@@ -1,11 +1,9 @@
 <!-- Visitor Badge -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername">
 
-<!-- Typing SVG -->
+<!-- Intro Line -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Habib;Machine+Learning+Engineer&center=true&size=30">
-  </a>
+  Hi there, I'm Habib<br>Machine Learning Engineer
 </h1>
 
 <!-- LinkedIn Profile -->
