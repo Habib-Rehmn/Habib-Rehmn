@@ -2,9 +2,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Habib-Rehmn.Habib-Rehmn">
 
 <!-- Typing SVG -->
-<h1 align="center">
+<h1 align="center" width="100%">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Habib;%20Machine+Learning+Engineer&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Habib;Machine+Learning+Engineer&center=true&size=30">
   </a>
 </h1>
 
