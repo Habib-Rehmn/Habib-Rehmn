@@ -4,7 +4,7 @@
 <!-- Typing SVG -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Habib;Machine+Learning+Engineer&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Habib;%20Machine+Learning+Engineer&center=true&size=30">
   </a>
 </h1>
 
@@ -92,6 +92,6 @@
 <hr>
 <h2 align="center">📫 How to reach me</h2>
 <p align="center">
-  <a href="mailto:your.email@example.com">your.email@example.com</a>
+  <a href="mailto:habibrehmn2@gmail.com">your.email@example.com</a>
 </p>
 <hr>
