@@ -23,9 +23,9 @@
 
 <!-- Languages & Frameworks -->
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities</h2>
+<h2 align="center">🔥 Languages, Frameworks & Tools </h2>
 <p align="center">
-  <img title="Python" height="32" src="images/python-original.svg">
+  <img title="Python" height="32" src="python-original.svg">
   <img title="TensorFlow" height="32" src="images/tensorflow.png">
   <img title="Keras" height="32" src="images/keras.png">
   <img title="Scikit-Learn" height="32" src="images/scikit-learn.png">
