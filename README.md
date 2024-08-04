@@ -25,17 +25,17 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities</h2>
 <p align="center">
-  <img title="Python" height="25" src="images/python-original.svg">
-  <img title="TensorFlow" height="25" src="images/tensorflow.png">
-  <img title="Keras" height="25" src="images/keras.png">
-  <img title="Scikit-Learn" height="25" src="images/scikit-learn.png">
-  <img title="Pandas" height="25" src="images/pandas.svg">
-  <img title="NumPy" height="25" src="images/numpy.svg">
-  <img title="Matplotlib" height="25" src="images/matplotlib.svg">
-  <img title="Jupyter" height="25" src="images/jupyter.svg">
-  <img title="Git" height="25" src="images/git-original.svg">
-  <img title="Docker" height="25" src="images/docker.svg">
-  <img title="AWS" height="25" src="images/aws.svg">
+  <img title="Python" height="32" src="images/python-original.svg">
+  <img title="TensorFlow" height="32" src="images/tensorflow.png">
+  <img title="Keras" height="32" src="images/keras.png">
+  <img title="Scikit-Learn" height="32" src="images/scikit-learn.png">
+  <img title="Pandas" height="32" src="images/pandas.svg">
+  <img title="NumPy" height="32" src="images/numpy.svg">
+  <img title="Matplotlib" height="32" src="images/matplotlib.svg">
+  <img title="Jupyter" height="32" src="images/jupyter.svg">
+  <img title="Git" height="32" src="images/git-original.svg">
+  <img title="Docker" height="32" src="images/docker.svg">
+  <img title="AWS" height="32" src="images/aws.svg">
 </p>
 
 
@@ -46,6 +46,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Habib-Rehmn&show_icons=true" height="165" />
   </a>
+  
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habib-Rehmn" height="165" />
   </a>
