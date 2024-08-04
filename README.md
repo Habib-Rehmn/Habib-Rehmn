@@ -10,7 +10,7 @@
 
 <!-- LinkedIn Profile -->
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/yourprofile/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://linkedin.com/in/habib-ur-rehman-in/" title="LinkedIn Profile"><img width="38" src="linkedin-original.svg"> LinkedIn</a></code>
 </h5>
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile/">Visit my LinkedIn profile</a>
