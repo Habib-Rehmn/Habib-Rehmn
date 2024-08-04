@@ -23,7 +23,7 @@
 
 <!-- Languages & Frameworks -->
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities</h2>
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="TensorFlow" height="25" src="images/tensorflow.png"></code>
@@ -41,7 +41,7 @@
 
 <!-- GitHub Stats -->
 <hr>
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats</h2>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" height="165" />
@@ -53,7 +53,7 @@
 
 <!-- Most Used Languages -->
 <hr>
-<h2 align="center">📊 Most Used Languages 📊</h2>
+<h2 align="center">📊 Most Used Languages</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&layout=compact" />
@@ -62,7 +62,7 @@
 
 <!-- Contact -->
 <hr>
-<h2 align="center">📫 How to reach me 📫</h2>
+<h2 align="center">📫 How to reach me</h2>
 <p align="center">
   <a href="mailto:your.email@example.com">your.email@example.com</a>
 </p>
