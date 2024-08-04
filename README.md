@@ -1,5 +1,5 @@
 <!-- Visitor Badge -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Habib-Rehmn.Habib-Rehmn">
 
 <!-- Typing SVG -->
 <h1 align="center">
@@ -43,7 +43,7 @@
 <h2 align="center">📊 Most Used Languages 📊</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&theme=radical&layout=compact" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-Rehmn&langs_count=8&theme=radical&layout=compact" />
   </a>
 </p>
 
@@ -52,10 +52,10 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="45%" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Habib-Rehmn&show_icons=true&theme=radical" width="45%" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="45%" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Habib-Rehmn&theme=radical" width="45%" />
   </a>
 </p>
 
@@ -63,7 +63,7 @@
 <hr>
 <h2 align="center">🔥 Contribution Graph 🔥</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Habib-Rehmn&theme=radical" width="100%"/>
 </p>
 
 <!-- Contact -->
