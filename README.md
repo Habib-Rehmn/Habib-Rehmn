@@ -18,7 +18,7 @@
 
 <!-- Introductory Paragraph -->
 <p align="center">
-  Hi, I'm Habib, a Machine Learning Engineer with a passion for building intelligent systems and solving complex problems using data. I have extensive experience in developing machine learning models, data analysis, and implementing AI solutions.
+  Hi, I'm Habib, a Machine Learning Engineer with a passion for building intelligent systems and solving complex problems using data. I develop machine learning models, data analytics projects, and implementing AI solutions.
 </p>
 
 <!-- Languages & Frameworks -->
