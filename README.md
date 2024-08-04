@@ -38,30 +38,26 @@
   <code><img title="AWS" height="25" src="images/aws.svg"></code>
 </p>
 
-<!-- GitHub Stats -->
-<p>
-<hr>
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" height="165" />
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" height="165" />
-  </a>
-</p>
-
 <!-- Most Used Languages -->
 <hr>
-</p>
-
-<hr>
+<h2 align="center">📊 Most Used Languages 📊</h2>
 <p align="center">
-  <h2 align="center">📊 Most Used Languages 📊</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&layout=compact" />
   </a>
 </p>
+
+<!-- GitHub Stats -->
+<hr>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" height="165" />
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" height="165" />
+  </a>
+</div>
 
 <!-- Contact -->
 <hr>
