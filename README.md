@@ -1,11 +1,9 @@
 <!-- Visitor Badge -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername">
 
-<!-- Typing SVG -->
+<!-- Intro Line -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Habib;Machine+Learning+Engineer&center=true&size=30">
-  </a>
+  Hi there, I'm Habib<br>Machine Learning Engineer
 </h1>
 
 <!-- LinkedIn Profile -->
@@ -38,6 +36,18 @@
   <code><img title="AWS" height="25" src="images/aws.svg"></code>
 </p>
 
+<!-- GitHub Stats -->
+<hr>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" height="165" />
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" height="165" />
+  </a>
+</p>
+
 <!-- Most Used Languages -->
 <hr>
 <h2 align="center">📊 Most Used Languages 📊</h2>
@@ -47,22 +57,9 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
-<hr>
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" height="165" />
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" height="165" />
-  </a>
-</div>
-
 <!-- Contact -->
 <hr>
 <h2 align="center">📫 How to reach me 📫</h2>
 <p align="center">
   <a href="mailto:your.email@example.com">your.email@example.com</a>
 </p>
-<hr>
