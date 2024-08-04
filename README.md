@@ -50,14 +50,14 @@
 <!-- GitHub Stats -->
 <hr>
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
-<p align="center">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" height="165" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" height="165" />
   </a>
-</p>
+</div>
 
 <!-- Contact -->
 <hr>
@@ -65,3 +65,4 @@
 <p align="center">
   <a href="mailto:your.email@example.com">your.email@example.com</a>
 </p>
+<hr>
