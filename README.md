@@ -49,7 +49,6 @@
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" height="165" />
   </a>
 </p>
-<hr>
 
 <!-- Most Used Languages -->
 <hr>
