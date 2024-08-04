@@ -39,8 +39,8 @@
 </p>
 
 <!-- GitHub Stats -->
+<p>
 <hr>
-dfdkf
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -53,7 +53,9 @@ dfdkf
 
 <!-- Most Used Languages -->
 <hr>
+</p>
 
+<hr>
 <p align="center">
   <h2 align="center">📊 Most Used Languages 📊</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -67,3 +69,4 @@ dfdkf
 <p align="center">
   <a href="mailto:your.email@example.com">your.email@example.com</a>
 </p>
+<hr>
