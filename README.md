@@ -93,6 +93,6 @@
 <hr>
 <h2 align="center">📫 How to reach me</h2>
 <p align="center">
-  <a href="mailto:habibrehmn2@gmail.com">your.email@example.com</a>
+  <a href="mailto:habibrehmn2@gmail.com">mailto:habibrehmn2@gmail.com</a>
 </p>
 <hr>
